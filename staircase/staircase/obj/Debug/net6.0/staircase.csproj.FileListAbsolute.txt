@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HackerRankSlotuions\staircase\staircase\obj\Debug\net6.0\staircase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HackerRankSlotuions\staircase\staircase\obj\Debug\net6.0\staircase.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\staircase\staircase\obj\Debug\net6.0\staircase.AssemblyInfo.cs
+C:\Users\user\Desktop\HackerRankSlotuions\staircase\staircase\obj\Debug\net6.0\staircase.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\staircase\staircase\obj\Debug\net6.0\staircase.sourcelink.json
+C:\Users\user\Desktop\HackerRankSlotuions\staircase\staircase\bin\Debug\net6.0\staircase.exe
+C:\Users\user\Desktop\HackerRankSlotuions\staircase\staircase\bin\Debug\net6.0\staircase.deps.json
+C:\Users\user\Desktop\HackerRankSlotuions\staircase\staircase\bin\Debug\net6.0\staircase.runtimeconfig.json
+C:\Users\user\Desktop\HackerRankSlotuions\staircase\staircase\bin\Debug\net6.0\staircase.dll
+C:\Users\user\Desktop\HackerRankSlotuions\staircase\staircase\bin\Debug\net6.0\staircase.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\staircase\staircase\obj\Debug\net6.0\staircase.dll
+C:\Users\user\Desktop\HackerRankSlotuions\staircase\staircase\obj\Debug\net6.0\refint\staircase.dll
+C:\Users\user\Desktop\HackerRankSlotuions\staircase\staircase\obj\Debug\net6.0\staircase.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\staircase\staircase\obj\Debug\net6.0\staircase.genruntimeconfig.cache
+C:\Users\user\Desktop\HackerRankSlotuions\staircase\staircase\obj\Debug\net6.0\ref\staircase.dll
