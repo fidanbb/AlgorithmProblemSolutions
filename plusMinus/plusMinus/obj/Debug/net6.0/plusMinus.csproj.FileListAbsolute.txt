@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\HackerRankSlotuions\plusMinus\plusMinus\bin\Debug\net6.0\plusMinus.exe
+C:\Users\user\Desktop\HackerRankSlotuions\plusMinus\plusMinus\bin\Debug\net6.0\plusMinus.deps.json
+C:\Users\user\Desktop\HackerRankSlotuions\plusMinus\plusMinus\bin\Debug\net6.0\plusMinus.runtimeconfig.json
+C:\Users\user\Desktop\HackerRankSlotuions\plusMinus\plusMinus\bin\Debug\net6.0\plusMinus.dll
+C:\Users\user\Desktop\HackerRankSlotuions\plusMinus\plusMinus\bin\Debug\net6.0\plusMinus.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\plusMinus\plusMinus\obj\Debug\net6.0\plusMinus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HackerRankSlotuions\plusMinus\plusMinus\obj\Debug\net6.0\plusMinus.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\plusMinus\plusMinus\obj\Debug\net6.0\plusMinus.AssemblyInfo.cs
+C:\Users\user\Desktop\HackerRankSlotuions\plusMinus\plusMinus\obj\Debug\net6.0\plusMinus.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\plusMinus\plusMinus\obj\Debug\net6.0\plusMinus.dll
+C:\Users\user\Desktop\HackerRankSlotuions\plusMinus\plusMinus\obj\Debug\net6.0\refint\plusMinus.dll
+C:\Users\user\Desktop\HackerRankSlotuions\plusMinus\plusMinus\obj\Debug\net6.0\plusMinus.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\plusMinus\plusMinus\obj\Debug\net6.0\plusMinus.genruntimeconfig.cache
+C:\Users\user\Desktop\HackerRankSlotuions\plusMinus\plusMinus\obj\Debug\net6.0\ref\plusMinus.dll
