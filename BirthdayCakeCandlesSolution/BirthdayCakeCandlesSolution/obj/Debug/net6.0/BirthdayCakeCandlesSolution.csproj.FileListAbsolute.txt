@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HackerRankSlotuions\BirthdayCakeCandlesSolution\BirthdayCakeCandlesSolution\bin\Debug\net6.0\BirthdayCakeCandlesSolution.exe
+C:\Users\user\Desktop\HackerRankSlotuions\BirthdayCakeCandlesSolution\BirthdayCakeCandlesSolution\bin\Debug\net6.0\BirthdayCakeCandlesSolution.deps.json
+C:\Users\user\Desktop\HackerRankSlotuions\BirthdayCakeCandlesSolution\BirthdayCakeCandlesSolution\bin\Debug\net6.0\BirthdayCakeCandlesSolution.runtimeconfig.json
+C:\Users\user\Desktop\HackerRankSlotuions\BirthdayCakeCandlesSolution\BirthdayCakeCandlesSolution\bin\Debug\net6.0\BirthdayCakeCandlesSolution.dll
+C:\Users\user\Desktop\HackerRankSlotuions\BirthdayCakeCandlesSolution\BirthdayCakeCandlesSolution\bin\Debug\net6.0\BirthdayCakeCandlesSolution.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\BirthdayCakeCandlesSolution\BirthdayCakeCandlesSolution\obj\Debug\net6.0\BirthdayCakeCandlesSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HackerRankSlotuions\BirthdayCakeCandlesSolution\BirthdayCakeCandlesSolution\obj\Debug\net6.0\BirthdayCakeCandlesSolution.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\BirthdayCakeCandlesSolution\BirthdayCakeCandlesSolution\obj\Debug\net6.0\BirthdayCakeCandlesSolution.AssemblyInfo.cs
+C:\Users\user\Desktop\HackerRankSlotuions\BirthdayCakeCandlesSolution\BirthdayCakeCandlesSolution\obj\Debug\net6.0\BirthdayCakeCandlesSolution.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\BirthdayCakeCandlesSolution\BirthdayCakeCandlesSolution\obj\Debug\net6.0\BirthdayCakeCandlesSolution.sourcelink.json
+C:\Users\user\Desktop\HackerRankSlotuions\BirthdayCakeCandlesSolution\BirthdayCakeCandlesSolution\obj\Debug\net6.0\BirthdayCakeCandlesSolution.dll
+C:\Users\user\Desktop\HackerRankSlotuions\BirthdayCakeCandlesSolution\BirthdayCakeCandlesSolution\obj\Debug\net6.0\refint\BirthdayCakeCandlesSolution.dll
+C:\Users\user\Desktop\HackerRankSlotuions\BirthdayCakeCandlesSolution\BirthdayCakeCandlesSolution\obj\Debug\net6.0\BirthdayCakeCandlesSolution.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\BirthdayCakeCandlesSolution\BirthdayCakeCandlesSolution\obj\Debug\net6.0\BirthdayCakeCandlesSolution.genruntimeconfig.cache
+C:\Users\user\Desktop\HackerRankSlotuions\BirthdayCakeCandlesSolution\BirthdayCakeCandlesSolution\obj\Debug\net6.0\ref\BirthdayCakeCandlesSolution.dll
