@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HackerRankSlotuions\TimeConversionSolution\TimeConversionSolution\bin\Debug\net6.0\TimeConversionSolution.exe
+C:\Users\user\Desktop\HackerRankSlotuions\TimeConversionSolution\TimeConversionSolution\bin\Debug\net6.0\TimeConversionSolution.deps.json
+C:\Users\user\Desktop\HackerRankSlotuions\TimeConversionSolution\TimeConversionSolution\bin\Debug\net6.0\TimeConversionSolution.runtimeconfig.json
+C:\Users\user\Desktop\HackerRankSlotuions\TimeConversionSolution\TimeConversionSolution\bin\Debug\net6.0\TimeConversionSolution.dll
+C:\Users\user\Desktop\HackerRankSlotuions\TimeConversionSolution\TimeConversionSolution\bin\Debug\net6.0\TimeConversionSolution.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\TimeConversionSolution\TimeConversionSolution\obj\Debug\net6.0\TimeConversionSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HackerRankSlotuions\TimeConversionSolution\TimeConversionSolution\obj\Debug\net6.0\TimeConversionSolution.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\TimeConversionSolution\TimeConversionSolution\obj\Debug\net6.0\TimeConversionSolution.AssemblyInfo.cs
+C:\Users\user\Desktop\HackerRankSlotuions\TimeConversionSolution\TimeConversionSolution\obj\Debug\net6.0\TimeConversionSolution.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\TimeConversionSolution\TimeConversionSolution\obj\Debug\net6.0\TimeConversionSolution.sourcelink.json
+C:\Users\user\Desktop\HackerRankSlotuions\TimeConversionSolution\TimeConversionSolution\obj\Debug\net6.0\TimeConversionSolution.dll
+C:\Users\user\Desktop\HackerRankSlotuions\TimeConversionSolution\TimeConversionSolution\obj\Debug\net6.0\refint\TimeConversionSolution.dll
+C:\Users\user\Desktop\HackerRankSlotuions\TimeConversionSolution\TimeConversionSolution\obj\Debug\net6.0\TimeConversionSolution.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\TimeConversionSolution\TimeConversionSolution\obj\Debug\net6.0\TimeConversionSolution.genruntimeconfig.cache
+C:\Users\user\Desktop\HackerRankSlotuions\TimeConversionSolution\TimeConversionSolution\obj\Debug\net6.0\ref\TimeConversionSolution.dll
