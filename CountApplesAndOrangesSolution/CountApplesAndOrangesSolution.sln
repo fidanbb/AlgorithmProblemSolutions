@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountApplesAndOrangesSolution", "CountApplesAndOrangesSolution\CountApplesAndOrangesSolution.csproj", "{F363E927-C9C1-4F06-8797-F23AF3581A6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F363E927-C9C1-4F06-8797-F23AF3581A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F363E927-C9C1-4F06-8797-F23AF3581A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F363E927-C9C1-4F06-8797-F23AF3581A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F363E927-C9C1-4F06-8797-F23AF3581A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0E3BC11-6379-4FBA-94E6-B026C70B2C60}
+	EndGlobalSection
+EndGlobal
