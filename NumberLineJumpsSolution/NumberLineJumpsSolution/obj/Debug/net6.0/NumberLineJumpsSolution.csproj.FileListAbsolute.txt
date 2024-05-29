@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HackerRankSlotuions\NumberLineJumpsSolution\NumberLineJumpsSolution\bin\Debug\net6.0\NumberLineJumpsSolution.exe
+C:\Users\user\Desktop\HackerRankSlotuions\NumberLineJumpsSolution\NumberLineJumpsSolution\bin\Debug\net6.0\NumberLineJumpsSolution.deps.json
+C:\Users\user\Desktop\HackerRankSlotuions\NumberLineJumpsSolution\NumberLineJumpsSolution\bin\Debug\net6.0\NumberLineJumpsSolution.runtimeconfig.json
+C:\Users\user\Desktop\HackerRankSlotuions\NumberLineJumpsSolution\NumberLineJumpsSolution\bin\Debug\net6.0\NumberLineJumpsSolution.dll
+C:\Users\user\Desktop\HackerRankSlotuions\NumberLineJumpsSolution\NumberLineJumpsSolution\bin\Debug\net6.0\NumberLineJumpsSolution.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\NumberLineJumpsSolution\NumberLineJumpsSolution\obj\Debug\net6.0\NumberLineJumpsSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HackerRankSlotuions\NumberLineJumpsSolution\NumberLineJumpsSolution\obj\Debug\net6.0\NumberLineJumpsSolution.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\NumberLineJumpsSolution\NumberLineJumpsSolution\obj\Debug\net6.0\NumberLineJumpsSolution.AssemblyInfo.cs
+C:\Users\user\Desktop\HackerRankSlotuions\NumberLineJumpsSolution\NumberLineJumpsSolution\obj\Debug\net6.0\NumberLineJumpsSolution.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\NumberLineJumpsSolution\NumberLineJumpsSolution\obj\Debug\net6.0\NumberLineJumpsSolution.sourcelink.json
+C:\Users\user\Desktop\HackerRankSlotuions\NumberLineJumpsSolution\NumberLineJumpsSolution\obj\Debug\net6.0\NumberLineJumpsSolution.dll
+C:\Users\user\Desktop\HackerRankSlotuions\NumberLineJumpsSolution\NumberLineJumpsSolution\obj\Debug\net6.0\refint\NumberLineJumpsSolution.dll
+C:\Users\user\Desktop\HackerRankSlotuions\NumberLineJumpsSolution\NumberLineJumpsSolution\obj\Debug\net6.0\NumberLineJumpsSolution.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\NumberLineJumpsSolution\NumberLineJumpsSolution\obj\Debug\net6.0\NumberLineJumpsSolution.genruntimeconfig.cache
+C:\Users\user\Desktop\HackerRankSlotuions\NumberLineJumpsSolution\NumberLineJumpsSolution\obj\Debug\net6.0\ref\NumberLineJumpsSolution.dll
