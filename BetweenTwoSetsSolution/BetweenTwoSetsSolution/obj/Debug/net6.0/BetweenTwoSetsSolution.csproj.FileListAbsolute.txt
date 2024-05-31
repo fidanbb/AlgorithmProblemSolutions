@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HackerRankSlotuions\BetweenTwoSetsSolution\BetweenTwoSetsSolution\bin\Debug\net6.0\BetweenTwoSetsSolution.exe
+C:\Users\user\Desktop\HackerRankSlotuions\BetweenTwoSetsSolution\BetweenTwoSetsSolution\bin\Debug\net6.0\BetweenTwoSetsSolution.deps.json
+C:\Users\user\Desktop\HackerRankSlotuions\BetweenTwoSetsSolution\BetweenTwoSetsSolution\bin\Debug\net6.0\BetweenTwoSetsSolution.runtimeconfig.json
+C:\Users\user\Desktop\HackerRankSlotuions\BetweenTwoSetsSolution\BetweenTwoSetsSolution\bin\Debug\net6.0\BetweenTwoSetsSolution.dll
+C:\Users\user\Desktop\HackerRankSlotuions\BetweenTwoSetsSolution\BetweenTwoSetsSolution\bin\Debug\net6.0\BetweenTwoSetsSolution.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\BetweenTwoSetsSolution\BetweenTwoSetsSolution\obj\Debug\net6.0\BetweenTwoSetsSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HackerRankSlotuions\BetweenTwoSetsSolution\BetweenTwoSetsSolution\obj\Debug\net6.0\BetweenTwoSetsSolution.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\BetweenTwoSetsSolution\BetweenTwoSetsSolution\obj\Debug\net6.0\BetweenTwoSetsSolution.AssemblyInfo.cs
+C:\Users\user\Desktop\HackerRankSlotuions\BetweenTwoSetsSolution\BetweenTwoSetsSolution\obj\Debug\net6.0\BetweenTwoSetsSolution.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\BetweenTwoSetsSolution\BetweenTwoSetsSolution\obj\Debug\net6.0\BetweenTwoSetsSolution.sourcelink.json
+C:\Users\user\Desktop\HackerRankSlotuions\BetweenTwoSetsSolution\BetweenTwoSetsSolution\obj\Debug\net6.0\BetweenTwoSetsSolution.dll
+C:\Users\user\Desktop\HackerRankSlotuions\BetweenTwoSetsSolution\BetweenTwoSetsSolution\obj\Debug\net6.0\refint\BetweenTwoSetsSolution.dll
+C:\Users\user\Desktop\HackerRankSlotuions\BetweenTwoSetsSolution\BetweenTwoSetsSolution\obj\Debug\net6.0\BetweenTwoSetsSolution.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\BetweenTwoSetsSolution\BetweenTwoSetsSolution\obj\Debug\net6.0\BetweenTwoSetsSolution.genruntimeconfig.cache
+C:\Users\user\Desktop\HackerRankSlotuions\BetweenTwoSetsSolution\BetweenTwoSetsSolution\obj\Debug\net6.0\ref\BetweenTwoSetsSolution.dll
