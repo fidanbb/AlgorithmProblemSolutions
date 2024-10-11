@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HackerRankSlotuions\SubarrayDivision\SubarrayDivision\bin\Debug\net8.0\SubarrayDivision.exe
+C:\Users\user\Desktop\HackerRankSlotuions\SubarrayDivision\SubarrayDivision\bin\Debug\net8.0\SubarrayDivision.deps.json
+C:\Users\user\Desktop\HackerRankSlotuions\SubarrayDivision\SubarrayDivision\bin\Debug\net8.0\SubarrayDivision.runtimeconfig.json
+C:\Users\user\Desktop\HackerRankSlotuions\SubarrayDivision\SubarrayDivision\bin\Debug\net8.0\SubarrayDivision.dll
+C:\Users\user\Desktop\HackerRankSlotuions\SubarrayDivision\SubarrayDivision\bin\Debug\net8.0\SubarrayDivision.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\SubarrayDivision\SubarrayDivision\obj\Debug\net8.0\SubarrayDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HackerRankSlotuions\SubarrayDivision\SubarrayDivision\obj\Debug\net8.0\SubarrayDivision.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\SubarrayDivision\SubarrayDivision\obj\Debug\net8.0\SubarrayDivision.AssemblyInfo.cs
+C:\Users\user\Desktop\HackerRankSlotuions\SubarrayDivision\SubarrayDivision\obj\Debug\net8.0\SubarrayDivision.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\SubarrayDivision\SubarrayDivision\obj\Debug\net8.0\SubarrayDivision.sourcelink.json
+C:\Users\user\Desktop\HackerRankSlotuions\SubarrayDivision\SubarrayDivision\obj\Debug\net8.0\SubarrayDivision.dll
+C:\Users\user\Desktop\HackerRankSlotuions\SubarrayDivision\SubarrayDivision\obj\Debug\net8.0\refint\SubarrayDivision.dll
+C:\Users\user\Desktop\HackerRankSlotuions\SubarrayDivision\SubarrayDivision\obj\Debug\net8.0\SubarrayDivision.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\SubarrayDivision\SubarrayDivision\obj\Debug\net8.0\SubarrayDivision.genruntimeconfig.cache
+C:\Users\user\Desktop\HackerRankSlotuions\SubarrayDivision\SubarrayDivision\obj\Debug\net8.0\ref\SubarrayDivision.dll

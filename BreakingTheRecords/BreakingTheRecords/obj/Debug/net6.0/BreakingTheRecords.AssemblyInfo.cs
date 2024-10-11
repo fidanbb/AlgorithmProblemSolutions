@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BreakingTheRecords")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c26b098ba39f874231585e835e06e9978a744dfa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d82e933c5fb081702779ee3a983fe8dae9d23f29")]
 [assembly: System.Reflection.AssemblyProductAttribute("BreakingTheRecords")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BreakingTheRecords")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
