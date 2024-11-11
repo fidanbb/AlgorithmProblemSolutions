@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HackerRankSlotuions\Sock-Merchant\Sock-Merchant\bin\Debug\net8.0\Sock-Merchant.exe
+C:\Users\user\Desktop\HackerRankSlotuions\Sock-Merchant\Sock-Merchant\bin\Debug\net8.0\Sock-Merchant.deps.json
+C:\Users\user\Desktop\HackerRankSlotuions\Sock-Merchant\Sock-Merchant\bin\Debug\net8.0\Sock-Merchant.runtimeconfig.json
+C:\Users\user\Desktop\HackerRankSlotuions\Sock-Merchant\Sock-Merchant\bin\Debug\net8.0\Sock-Merchant.dll
+C:\Users\user\Desktop\HackerRankSlotuions\Sock-Merchant\Sock-Merchant\bin\Debug\net8.0\Sock-Merchant.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\Sock-Merchant\Sock-Merchant\obj\Debug\net8.0\Sock-Merchant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HackerRankSlotuions\Sock-Merchant\Sock-Merchant\obj\Debug\net8.0\Sock-Merchant.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\Sock-Merchant\Sock-Merchant\obj\Debug\net8.0\Sock-Merchant.AssemblyInfo.cs
+C:\Users\user\Desktop\HackerRankSlotuions\Sock-Merchant\Sock-Merchant\obj\Debug\net8.0\Sock-Merchant.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\Sock-Merchant\Sock-Merchant\obj\Debug\net8.0\Sock-Merchant.sourcelink.json
+C:\Users\user\Desktop\HackerRankSlotuions\Sock-Merchant\Sock-Merchant\obj\Debug\net8.0\Sock-Merchant.dll
+C:\Users\user\Desktop\HackerRankSlotuions\Sock-Merchant\Sock-Merchant\obj\Debug\net8.0\refint\Sock-Merchant.dll
+C:\Users\user\Desktop\HackerRankSlotuions\Sock-Merchant\Sock-Merchant\obj\Debug\net8.0\Sock-Merchant.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\Sock-Merchant\Sock-Merchant\obj\Debug\net8.0\Sock-Merchant.genruntimeconfig.cache
+C:\Users\user\Desktop\HackerRankSlotuions\Sock-Merchant\Sock-Merchant\obj\Debug\net8.0\ref\Sock-Merchant.dll
