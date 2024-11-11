@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HackerRankSlotuions\DayOfProgrammer\DayOfProgrammer\bin\Debug\net8.0\DayOfProgrammer.exe
+C:\Users\user\Desktop\HackerRankSlotuions\DayOfProgrammer\DayOfProgrammer\bin\Debug\net8.0\DayOfProgrammer.deps.json
+C:\Users\user\Desktop\HackerRankSlotuions\DayOfProgrammer\DayOfProgrammer\bin\Debug\net8.0\DayOfProgrammer.runtimeconfig.json
+C:\Users\user\Desktop\HackerRankSlotuions\DayOfProgrammer\DayOfProgrammer\bin\Debug\net8.0\DayOfProgrammer.dll
+C:\Users\user\Desktop\HackerRankSlotuions\DayOfProgrammer\DayOfProgrammer\bin\Debug\net8.0\DayOfProgrammer.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\DayOfProgrammer\DayOfProgrammer\obj\Debug\net8.0\DayOfProgrammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HackerRankSlotuions\DayOfProgrammer\DayOfProgrammer\obj\Debug\net8.0\DayOfProgrammer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\DayOfProgrammer\DayOfProgrammer\obj\Debug\net8.0\DayOfProgrammer.AssemblyInfo.cs
+C:\Users\user\Desktop\HackerRankSlotuions\DayOfProgrammer\DayOfProgrammer\obj\Debug\net8.0\DayOfProgrammer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\DayOfProgrammer\DayOfProgrammer\obj\Debug\net8.0\DayOfProgrammer.sourcelink.json
+C:\Users\user\Desktop\HackerRankSlotuions\DayOfProgrammer\DayOfProgrammer\obj\Debug\net8.0\DayOfProgrammer.dll
+C:\Users\user\Desktop\HackerRankSlotuions\DayOfProgrammer\DayOfProgrammer\obj\Debug\net8.0\refint\DayOfProgrammer.dll
+C:\Users\user\Desktop\HackerRankSlotuions\DayOfProgrammer\DayOfProgrammer\obj\Debug\net8.0\DayOfProgrammer.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\DayOfProgrammer\DayOfProgrammer\obj\Debug\net8.0\DayOfProgrammer.genruntimeconfig.cache
+C:\Users\user\Desktop\HackerRankSlotuions\DayOfProgrammer\DayOfProgrammer\obj\Debug\net8.0\ref\DayOfProgrammer.dll
