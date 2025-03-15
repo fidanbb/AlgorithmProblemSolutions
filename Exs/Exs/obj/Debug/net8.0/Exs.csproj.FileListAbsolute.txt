@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HackerRankSlotuions\Exs\Exs\bin\Debug\net8.0\Exs.exe
+C:\Users\user\Desktop\HackerRankSlotuions\Exs\Exs\bin\Debug\net8.0\Exs.deps.json
+C:\Users\user\Desktop\HackerRankSlotuions\Exs\Exs\bin\Debug\net8.0\Exs.runtimeconfig.json
+C:\Users\user\Desktop\HackerRankSlotuions\Exs\Exs\bin\Debug\net8.0\Exs.dll
+C:\Users\user\Desktop\HackerRankSlotuions\Exs\Exs\bin\Debug\net8.0\Exs.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\Exs\Exs\obj\Debug\net8.0\Exs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HackerRankSlotuions\Exs\Exs\obj\Debug\net8.0\Exs.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\Exs\Exs\obj\Debug\net8.0\Exs.AssemblyInfo.cs
+C:\Users\user\Desktop\HackerRankSlotuions\Exs\Exs\obj\Debug\net8.0\Exs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\Exs\Exs\obj\Debug\net8.0\Exs.sourcelink.json
+C:\Users\user\Desktop\HackerRankSlotuions\Exs\Exs\obj\Debug\net8.0\Exs.dll
+C:\Users\user\Desktop\HackerRankSlotuions\Exs\Exs\obj\Debug\net8.0\refint\Exs.dll
+C:\Users\user\Desktop\HackerRankSlotuions\Exs\Exs\obj\Debug\net8.0\Exs.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\Exs\Exs\obj\Debug\net8.0\Exs.genruntimeconfig.cache
+C:\Users\user\Desktop\HackerRankSlotuions\Exs\Exs\obj\Debug\net8.0\ref\Exs.dll
