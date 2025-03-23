@@ -4,6 +4,7 @@
 #region Find the first non-repeating character in a string.
 
 using System.Collections.Generic;
+using System.Text;
 
 char FirstNonRepeatingChar(string str)
 {
@@ -51,6 +52,43 @@ int FindMissingNum(List<int> list)
 
 #endregion
 
+#region Find sum of 2 positive absolute value. Values must be string
+
+string Sum(string val1, string val2)
+{
+    if (val1.Length > val2.Length)
+        val2 = val2.PadLeft(val1.Length, '0');
+    else
+        val1 = val1.PadLeft(val2.Length, '0');
+
+    var sb = new StringBuilder();
+    int leapVal = 0;
+
+    for (int i = val1.Length - 1; i >= 0; i--)
+    {
+        var firstVal = int.Parse(val1[i].ToString());
+        var lastVal = int.Parse(val2[i].ToString());
+
+        var total = firstVal + lastVal + leapVal;
+
+        leapVal = total > 9 ? 1 : 0;
+        total %= 10;
+
+        sb.Insert(0,total);
+    }
+
+    if (leapVal > 0)
+        sb.Insert(0, 1);
+
+    return sb.ToString();
+}
+
+Console.WriteLine(Sum("99", "101"));
+Console.WriteLine(Sum("5467", "2"));
+Console.WriteLine(Sum("34558695065967237428", "10000000000000000000000000000"));
+Console.WriteLine(Sum("999999999888877555", "1111133333444999998888b"));
+
+#endregion
 
 #region LRU cache question
 
@@ -59,14 +97,13 @@ var cache = new LRUCache(2);
 
 cache.Put(1, 1);                        // Adds the key 1 with value 1 to the cache
 cache.Put(2, 2);                        // Adds the key 2 with value 2 to the cache
-Console.WriteLine(cache.Get(1));        // returns 1
+//Console.WriteLine(cache.Get(1));        // returns 1
 cache.Put(3, 3);                        // evicts key 2
-Console.WriteLine(cache.Get(2));        // returns -1 (not found)
+//Console.WriteLine(cache.Get(2));        // returns -1 (not found)
 cache.Put(4, 4);                        // evicts key 1
-Console.WriteLine(cache.Get(1));        // returns -1 (not found)
-Console.WriteLine(cache.Get(3));        // returns 3
-Console.WriteLine(cache.Get(4));        // returns 4
-
+//Console.WriteLine(cache.Get(1));        // returns -1 (not found)
+//Console.WriteLine(cache.Get(3));        // returns 3
+//Console.WriteLine(cache.Get(4));        // returns 4
 
 class LRUCache
 {
@@ -117,4 +154,6 @@ class LRUCache
 }
 
 #endregion
+
+
 
