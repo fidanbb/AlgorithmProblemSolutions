@@ -83,10 +83,48 @@ string Sum(string val1, string val2)
     return sb.ToString();
 }
 
-Console.WriteLine(Sum("99", "101"));
-Console.WriteLine(Sum("5467", "2"));
-Console.WriteLine(Sum("34558695065967237428", "10000000000000000000000000000"));
-Console.WriteLine(Sum("999999999888877555", "1111133333444999998888b"));
+//Console.WriteLine(Sum("99", "101"));
+//Console.WriteLine(Sum("5467", "2"));
+//Console.WriteLine(Sum("34558695065967237428", "10000000000000000000000000000"));
+//Console.WriteLine(Sum("999999999888877555", "1111133333444999998888b"));
+
+#endregion
+
+#region Generate Parenthesis
+
+string GeneratePattern(int length)  // length must be even number
+{
+    var parenthesis = new List<string>() { "(", ")"};
+
+    string res = string.Empty;
+    int arrIndex = 0;
+    int openBracket = 0;
+    int closeBracket = 0;
+
+    while (res.Length != length)
+    {
+        if (openBracket <= closeBracket)
+            arrIndex = 0;
+
+        else if (openBracket == length / 2 && closeBracket < length / 2)
+            arrIndex = 1;
+
+        else
+            arrIndex = Random.Shared.Next(maxValue: 2);
+
+        res += parenthesis[arrIndex];
+
+        openBracket += arrIndex == 0 ? 1 : 0;
+        closeBracket += arrIndex == 1 ? 1 : 0; 
+         
+    }
+
+    return res;
+}
+
+Console.WriteLine(GeneratePattern(6));
+Console.WriteLine(GeneratePattern(8));
+Console.WriteLine(GeneratePattern(16));
 
 #endregion
 
