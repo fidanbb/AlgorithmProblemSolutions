@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HackerRankSlotuions\MergeSortedArray\MergeSortedArray\bin\Debug\net8.0\MergeSortedArray.exe
+C:\Users\user\Desktop\HackerRankSlotuions\MergeSortedArray\MergeSortedArray\bin\Debug\net8.0\MergeSortedArray.deps.json
+C:\Users\user\Desktop\HackerRankSlotuions\MergeSortedArray\MergeSortedArray\bin\Debug\net8.0\MergeSortedArray.runtimeconfig.json
+C:\Users\user\Desktop\HackerRankSlotuions\MergeSortedArray\MergeSortedArray\bin\Debug\net8.0\MergeSortedArray.dll
+C:\Users\user\Desktop\HackerRankSlotuions\MergeSortedArray\MergeSortedArray\bin\Debug\net8.0\MergeSortedArray.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\MergeSortedArray\MergeSortedArray\obj\Debug\net8.0\MergeSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HackerRankSlotuions\MergeSortedArray\MergeSortedArray\obj\Debug\net8.0\MergeSortedArray.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\MergeSortedArray\MergeSortedArray\obj\Debug\net8.0\MergeSortedArray.AssemblyInfo.cs
+C:\Users\user\Desktop\HackerRankSlotuions\MergeSortedArray\MergeSortedArray\obj\Debug\net8.0\MergeSortedArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HackerRankSlotuions\MergeSortedArray\MergeSortedArray\obj\Debug\net8.0\MergeSortedArray.sourcelink.json
+C:\Users\user\Desktop\HackerRankSlotuions\MergeSortedArray\MergeSortedArray\obj\Debug\net8.0\MergeSortedArray.dll
+C:\Users\user\Desktop\HackerRankSlotuions\MergeSortedArray\MergeSortedArray\obj\Debug\net8.0\refint\MergeSortedArray.dll
+C:\Users\user\Desktop\HackerRankSlotuions\MergeSortedArray\MergeSortedArray\obj\Debug\net8.0\MergeSortedArray.pdb
+C:\Users\user\Desktop\HackerRankSlotuions\MergeSortedArray\MergeSortedArray\obj\Debug\net8.0\MergeSortedArray.genruntimeconfig.cache
+C:\Users\user\Desktop\HackerRankSlotuions\MergeSortedArray\MergeSortedArray\obj\Debug\net8.0\ref\MergeSortedArray.dll
