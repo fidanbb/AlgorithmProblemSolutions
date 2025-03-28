@@ -1,1 +1,1 @@
-# This repo contains solutions of Hacker Rank and different algorithmic problems
+# This repo contains solutions of Hacker Rank, LeetCode and different algorithmic problems
