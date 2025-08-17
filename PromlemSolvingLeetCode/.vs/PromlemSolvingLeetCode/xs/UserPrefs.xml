@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8E5E81C9-656B-44A2-AF44-A64747C8E6CC}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PromlemSolvingLeetCode/Program.cs">
+    <Files>
+      <File FileName="PromlemSolvingLeetCode/Program.cs" Line="16" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PromlemSolvingLeetCode" expanded="True">
+            <Node name="PromlemSolvingLeetCode">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PromlemSolvingLeetCode PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
