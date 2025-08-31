@@ -1,0 +1,15 @@
+/Users/thatisphii/Desktop/AlgorithmProblemSolutions/RemoveElementLeetCode/RemoveElementLeetCode/bin/Debug/net6.0/RemoveElementLeetCode
+/Users/thatisphii/Desktop/AlgorithmProblemSolutions/RemoveElementLeetCode/RemoveElementLeetCode/bin/Debug/net6.0/RemoveElementLeetCode.deps.json
+/Users/thatisphii/Desktop/AlgorithmProblemSolutions/RemoveElementLeetCode/RemoveElementLeetCode/bin/Debug/net6.0/RemoveElementLeetCode.runtimeconfig.json
+/Users/thatisphii/Desktop/AlgorithmProblemSolutions/RemoveElementLeetCode/RemoveElementLeetCode/bin/Debug/net6.0/RemoveElementLeetCode.dll
+/Users/thatisphii/Desktop/AlgorithmProblemSolutions/RemoveElementLeetCode/RemoveElementLeetCode/bin/Debug/net6.0/RemoveElementLeetCode.pdb
+/Users/thatisphii/Desktop/AlgorithmProblemSolutions/RemoveElementLeetCode/RemoveElementLeetCode/obj/Debug/net6.0/RemoveElementLeetCode.csproj.AssemblyReference.cache
+/Users/thatisphii/Desktop/AlgorithmProblemSolutions/RemoveElementLeetCode/RemoveElementLeetCode/obj/Debug/net6.0/RemoveElementLeetCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatisphii/Desktop/AlgorithmProblemSolutions/RemoveElementLeetCode/RemoveElementLeetCode/obj/Debug/net6.0/RemoveElementLeetCode.AssemblyInfoInputs.cache
+/Users/thatisphii/Desktop/AlgorithmProblemSolutions/RemoveElementLeetCode/RemoveElementLeetCode/obj/Debug/net6.0/RemoveElementLeetCode.AssemblyInfo.cs
+/Users/thatisphii/Desktop/AlgorithmProblemSolutions/RemoveElementLeetCode/RemoveElementLeetCode/obj/Debug/net6.0/RemoveElementLeetCode.csproj.CoreCompileInputs.cache
+/Users/thatisphii/Desktop/AlgorithmProblemSolutions/RemoveElementLeetCode/RemoveElementLeetCode/obj/Debug/net6.0/RemoveElementLeetCode.dll
+/Users/thatisphii/Desktop/AlgorithmProblemSolutions/RemoveElementLeetCode/RemoveElementLeetCode/obj/Debug/net6.0/refint/RemoveElementLeetCode.dll
+/Users/thatisphii/Desktop/AlgorithmProblemSolutions/RemoveElementLeetCode/RemoveElementLeetCode/obj/Debug/net6.0/RemoveElementLeetCode.pdb
+/Users/thatisphii/Desktop/AlgorithmProblemSolutions/RemoveElementLeetCode/RemoveElementLeetCode/obj/Debug/net6.0/RemoveElementLeetCode.genruntimeconfig.cache
+/Users/thatisphii/Desktop/AlgorithmProblemSolutions/RemoveElementLeetCode/RemoveElementLeetCode/obj/Debug/net6.0/ref/RemoveElementLeetCode.dll
